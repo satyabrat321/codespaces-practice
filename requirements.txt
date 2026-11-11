@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langgraph
+
+# Provider integrations
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+langchain-openai
+huggingface-hub
+
+# Load API keys from the env file
+python-dotenv
